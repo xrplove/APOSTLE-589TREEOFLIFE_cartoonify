@@ -19,8 +19,8 @@ Cartoonify is a simple web application that transforms your face images into car
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/LaxmiNarayana31/Cartoonify.git
-cd Cartoonify
+git clone https://github.com/LaxmiNarayana31/cartoonify.git
+cd cartoonify
 ```
 
 ### 2. Install [uv](https://github.com/astral-sh/uv) (if not already installed)
